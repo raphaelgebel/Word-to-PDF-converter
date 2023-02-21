@@ -73,7 +73,7 @@ entry_pdf_filename.pack()
 entry_pdf_filename.place(x=205, y=110)
 
 
-# Configuration of the button that starts file conversion
+# Configuration of the button that starts the file conversion
 button_convert = ttk.Button(root, text="Convert", command=convert_word_to_pdf)
 button_convert.pack()
 button_convert.place(x=440, y=140)
