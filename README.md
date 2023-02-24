@@ -10,15 +10,14 @@ This is a program that
 - Python
 - tkinter package (for the GUI)
   
+  
 # Getting started
 
 ## Prerequisites
-- Python
-
-[Python download](https://www.python.org/downloads/ "open link")
+- Python: [Python download](https://www.python.org/downloads/ "open link")
 
 ## Usage
-	Step 1: Run the file 'main.py'
+	Step 1: Run the file 'main.py'.
 
   	Step 2: Enter the location of the Word file you want to convert.
 	
