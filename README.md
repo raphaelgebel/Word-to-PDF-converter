@@ -1,7 +1,7 @@
 # GUI Word to PDF converter. Written in Python.
 
 # About the project
-__This is a program that:
+__This is a program that:__
 - converts a Word (.docx) file into a PDF file
 - has a simple and straight-forward GUI
 - allows the user to choose a location and name for the PDF file
