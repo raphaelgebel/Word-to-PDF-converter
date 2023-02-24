@@ -8,13 +8,13 @@
 	- allows the user to choose a location and name for the PDF file
 
 ## Built with
-  - Python
-  - tkinter package (for the GUI)
+- Python
+- tkinter package (for the GUI)
   
 # Getting started
 
 ## Prerequisites
-	- Python
+- Python
 [Python download](https://www.python.org/downloads/ "open link")
 	
 
