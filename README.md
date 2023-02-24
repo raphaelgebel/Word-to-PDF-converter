@@ -16,6 +16,8 @@ __This is a program that:__
 ## Prerequisites
 - Python: [Python download](https://www.python.org/downloads/ "open link")
 
+- Comtypes: [Install comtypes](https://pypi.org/project/comtypes/ "open link")
+
 ## Usage
 	Step 1: Run the file 'main.py'.
 
