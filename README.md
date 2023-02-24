@@ -15,7 +15,7 @@
 
 ## Prerequisites
 	- Python
-		[Python download](https://www.python.org/downloads/ "open link")
+[Python download](https://www.python.org/downloads/ "open link")
 	
 
 ## Installation
